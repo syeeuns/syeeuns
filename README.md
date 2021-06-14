@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🎓 I graduated from SNU 
 - 🔭 I studied at SW Jungle (KAIST)
+-->
+
 
